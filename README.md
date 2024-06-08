@@ -17,7 +17,7 @@
 
 Download the given files and place them in same folder
 
-Main files : index.html , styles.css , script.js
+Main files : index.html , style.css , script.js
 
 ```
 now run the index.html file
